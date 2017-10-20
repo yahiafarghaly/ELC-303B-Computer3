@@ -1,0 +1,21 @@
+For Bash
+-----------------------
+to cancel () syntex token error in bash script you need to precude any syntex token with \ or 
+convey the whole expression with ' ' and it will send to the program without ' ' 
+so in SparktestCases i do ' '  as i run from bash shell-to execute Sparktb :)- BUT if you going 
+to run it from GUI arg of eclispe it will be fine without ' ' as it's not a shell ! 
+This just in case you transfer to the Windows OS so you will need to change the SparktestCases's Contents.
+
+For a3
+----------------------
+1)Don't Forget to follow the rules of pdf submission.
+
+
+4)Common error ' referrence temporary object to function that takes its args as a referrence
+5)remove system pause(if on VS)
+6) you may find a more larger datatype for factorial to get more in higher numbers
+7)should i care about .25 or 2.  ?  i think no
+9)3!! is not a valid syntex it should be (3!)! but ask if it's valid to this assignment
+10) you should handle making ()() or 2() to be ()*() and 2*() in isValidToCalculate() 
+to be safe expression for parseMathematicalExpression() >> no,it's invalid
+complete error handling tommorow
